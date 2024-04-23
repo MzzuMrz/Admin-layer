@@ -1,6 +1,5 @@
-# MindCo Admin
 
-El proyecto MindCo Admin es un formulario de administración diseñado para facilitar la actualización de datos de los usuarios. Utilizando una combinación de tecnologías modernas de frontend, este proyecto ofrece una solución elegante y eficiente para gestionar información de usuarios en tiempo real.
+El proyecto Admin es un formulario de administración diseñado para facilitar la actualización de datos de los usuarios. Utilizando una combinación de tecnologías modernas de frontend, este proyecto ofrece una solución elegante y eficiente para gestionar información de usuarios en tiempo real.
 
 ## Características
 

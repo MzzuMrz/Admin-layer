@@ -47,7 +47,7 @@ const Login = () => {
                 }}
             >
                 <Typography component="h1" variant="h5">
-                    Mindco Tracker
+                    Example Tracker
                 </Typography>
                 {error && <Typography color="error" sx={{ mt: 2 }}>{error}</Typography>}
                 <Box
